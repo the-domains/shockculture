@@ -5,19 +5,19 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: 'Wherever you are, our cultural modern wear tells a story and connects you with people. Stand Out or Blend In.'
-datePublished: '2016-03-17T16:35:39.645Z'
-dateModified: '2016-03-17T16:35:36.531Z'
+description: "Join us today in making the world an even smaller & better place to live in. \_"
+datePublished: '2016-03-17T16:39:16.722Z'
+dateModified: '2016-03-17T16:35:47.307Z'
 title: Join Us
 author: []
+sourcePath: _posts/2016-03-17-breaking-barriers-and-building-bridges.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-17-breaking-barriers-and-building-bridges.md
-published: true
 url: breaking-barriers-and-building-bridges/index.html
 _type: WebPage
 
