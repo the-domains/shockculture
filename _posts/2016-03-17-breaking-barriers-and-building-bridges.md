@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: "Join us today in making the world an even smaller & better place to live in.\_"
-datePublished: '2016-03-17T16:28:06.522Z'
-dateModified: '2016-03-17T16:24:39.717Z'
+description: 'Wherever you are, our cultural modern wear tells a story and connects you with people. Stand Out or Blend In.'
+datePublished: '2016-03-17T16:35:39.645Z'
+dateModified: '2016-03-17T16:35:36.531Z'
 title: Join Us
 author: []
 authors: []
@@ -22,8 +22,6 @@ url: breaking-barriers-and-building-bridges/index.html
 _type: WebPage
 
 ---
-**SHOCK! Culture // Breaking Barriers & Building Bridges.**
-
 **Join us today in making the world an even smaller & better place to live in.  **
 
 **Wherever you are, our cultural modern wear tells a story and connects you with people. Stand Out or Blend In.**
@@ -32,6 +30,6 @@ _Why fit in when you can Stand Out? Sticking out like a sore thumb is the perfec
 
 _Or simply Blend In the local environment like a chameleon & infuse yourself in the culture. Of course you'll blow your cover once you start yapping, but hey, they'll take their hats off just because you look dapper in the cultural colours. Trust me, you'll definitely make some local friends & have an awesome time..._
 
-**Be a GLOCAL Ambassador today.**
-
 **Join us in our pursue of Breaking Barriers & Building Bridges. Let's Celebrate Diversity in Unity.**
+
+**Be a GLOCAL Ambassador today.**
