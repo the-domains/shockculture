@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[SHOCK! Culture - Breaking Barriers & Building Bridges]]></title>
+        <description><![CDATA[SHOCK! Culture - Breaking Barriers & Building Bridges]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 17 Mar 2016 15:57:59 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>SHOCK! CULTURE // Breaking Barriers & Building Bridges</p>]]></description>
+            <link>undefinedcultural-fabric-meets-modern-wear/index.html</link>
+            <guid isPermaLink="false">1b637937-22d0-4d2f-9bdd-31851e2eebdc</guid>
+            <pubDate>Thu, 17 Mar 2016 15:57:57 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
