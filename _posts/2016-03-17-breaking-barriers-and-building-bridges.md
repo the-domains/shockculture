@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: "Celebrate diversity in unity & join us in our pursue of breaking barriers & building bridges.\_"
-datePublished: '2016-03-17T17:28:28.512Z'
-dateModified: '2016-03-17T17:28:25.436Z'
+datePublished: '2016-03-17T17:31:05.052Z'
+dateModified: '2016-03-17T17:30:54.560Z'
 title: 'Breaking Barriers & Building Bridges'
 author: []
 sourcePath: _posts/2016-03-17-breaking-barriers-and-building-bridges.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: breaking-barriers-and-building-bridges/index.html
-_type: WebPage
+_type: Article
 
 ---
 **Celebrate diversity in unity & join us in our pursue of breaking barriers & building bridges. **
