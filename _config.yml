@@ -1,0 +1,28 @@
+name: SHOCKCulture
+favicon: null
+layout_spectrum: 0.46660185093060136
+typography_spectrum: 0.7859946480020881
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.35180854611098766
+  lightness: 0.2899649871978909
+  saturation: 0.12550964439287782
+  rhythmicContrast: 0.908610729733482
+purpose: []
