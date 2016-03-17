@@ -1,4 +1,4 @@
-name: SHOCKCulture
+name: 'SHOCK! Culture'
 favicon: null
 layout_spectrum: 0.46660185093060136
 typography_spectrum: 0.7859946480020881
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.35180854611098766
-  lightness: 0.2899649871978909
-  saturation: 0.12550964439287782
-  rhythmicContrast: 0.908610729733482
+    - '#020224'
+    - '#ffffff'
+    - '#7b7a8c'
+    - '#cba660'
+    - '#c9cbcd'
+  brandStrength: 0
+  lightness: 0.1875
+  saturation: 0.4375
+  rhythmicContrast: 1
 purpose: []
