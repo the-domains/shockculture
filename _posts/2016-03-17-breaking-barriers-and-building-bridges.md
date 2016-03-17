@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Celebrate diversity in unity & join us in our pursue of breaking barriers & building bridges.\_"
-datePublished: '2016-03-17T17:27:48.395Z'
-dateModified: '2016-03-17T17:19:27.875Z'
+datePublished: '2016-03-17T17:28:28.512Z'
+dateModified: '2016-03-17T17:28:25.436Z'
 title: 'Breaking Barriers & Building Bridges'
 author: []
 sourcePath: _posts/2016-03-17-breaking-barriers-and-building-bridges.md
