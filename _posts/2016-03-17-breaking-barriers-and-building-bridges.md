@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Celebrate diversity in unity & JOIN US in our pursue of breaking barriers & building bridges\_through cultural modern wear in everyday life."
-datePublished: '2016-03-17T17:42:51.936Z'
-dateModified: '2016-03-17T17:42:48.004Z'
+datePublished: '2016-03-18T03:00:00.952Z'
+dateModified: '2016-03-18T02:59:42.942Z'
 title: 'Breaking Barriers & Building Bridges'
 author: []
 sourcePath: _posts/2016-03-17-breaking-barriers-and-building-bridges.md
@@ -22,7 +22,7 @@ url: breaking-barriers-and-building-bridges/index.html
 _type: Article
 
 ---
-**Celebrate diversity in unity & JOIN US in our pursue of breaking barriers & building bridges through cultural modern wear in everyday life.**
+**JOIN US in our pursuit of breaking barriers & building bridges through cultural modern wear in everyday life.**
 
 **Wherever you are, our cultural modern wear tells a story and connects you with people. Stand Out or Blend In.**
 
