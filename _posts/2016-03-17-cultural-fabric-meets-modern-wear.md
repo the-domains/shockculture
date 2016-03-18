@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Our vision is to celebrate diversity in unity by breaking barriers & building bridges through cultural modern wear in everyday life.'
-datePublished: '2016-03-18T03:00:53.051Z'
-dateModified: '2016-03-17T17:31:27.861Z'
+datePublished: '2016-03-18T03:03:11.459Z'
+dateModified: '2016-03-18T03:01:39.751Z'
 title: Cultural Fabric Meets Modern Wear
 author: []
 sourcePath: _posts/2016-03-17-cultural-fabric-meets-modern-wear.md
@@ -22,7 +22,7 @@ url: cultural-fabric-meets-modern-wear/index.html
 _type: Article
 
 ---
-**Our vision is to celebrate diversity in unity by breaking barriers & building bridges through cultural modern wear in everyday life.**
+**Our vision is to celebrate unity through diversity by infusing cultural tradition in modern everyday wear.**
 
 We are a unique breed of mammals made up of diverse & rich cultural backgrounds. We come from all walks of life, from all over the world. Yet we tend to forget we are one species & are one and all the same.
 
